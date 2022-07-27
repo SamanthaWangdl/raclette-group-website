@@ -9,7 +9,7 @@ title: The Team
 ### Chetan Sharaf
 
 ---
-author:
+
   - Xin Xu  [^1]
   - Yukai Xu [^2]
   - Vitto Resnick [^3]
