@@ -1,5 +1,5 @@
 ---
 title: About Hugo XMin
-author: Yihui Xie
+author: JD
 ---
 
