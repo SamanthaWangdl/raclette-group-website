@@ -17,27 +17,10 @@ Add the mindmap here
 ## The Final Presentation
 <!-- in this way you could embed a google slide -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0kKJB_M_bQMyuAQMtbWsVwZMUk0nbnsgRSf3-B3gWh_sPxFId-fI7mWnKUdkwBmQB36UXy_Z4tq92/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 <!-- in this way you could insert a video -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RRQtNnq3s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- in this way you could insert a code -->
-```bash
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
-
-```
-       5 ./layouts/404.html
-      12 ./layouts/_default/single.html
-      20 ./layouts/_default/list.html
-      13 ./layouts/_default/terms.html
-       0 ./layouts/partials/foot_custom.html
-       0 ./layouts/partials/head_custom.html
-       9 ./layouts/partials/footer.html
-      20 ./layouts/partials/header.html
-      51 ./static/css/style.css
-       7 ./static/css/fonts.css
-     137 total
-```
 
 
 Although it is a minimal theme, it is actually fully functional. It supports pages (including the home page), blog posts, a navigation menu, categories, tags, and RSS. With [a little bit customization](https://github.com/yihui/hugo-xmin/blob/master/exampleSite/layouts/partials/foot_custom.html), it can easily support LaTeX math expressions, e.g.,
