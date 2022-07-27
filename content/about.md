@@ -19,7 +19,7 @@ title: The Team
     This is Doris (Yuxuan) Zhang, and goes by She/Her. Her warmth and approachability makes for a great team player. </br> 
     She is a rising sophomore at New York University Shanghai, with an intended major in Social Science and a minor in Neuroscience. You can find her [Email](yz8288@nyu.edu), GITHUB         here.
   - **Kai Fu**
-
+This is Kai Fu and his pronouns are he/him. He is a 3rd year undergraduate at Northwest A&F University, China, majoring in biotechnology. You can find her [Email](fk2622891245@nwafu.edu.cn), GITHUB         here.
 
  - **Chetan Sharaf**
 This is Chetan  and my pronouns are he/him. He is currently residing in Delhi, India. He has completed his bachelors in mechanical engineering and is currently pursuing a masters in Computer Science. You can find her [Email](chetansharaf96@gmail.com), GITHUB         here.
