@@ -8,7 +8,7 @@ title: The Team
     She is currently enrolled in the Master's Program in Bio and Brain Engineering at KAIST. However, she completed her       Bachelor's Degree in Mechanical       Engineering at BIT. You can find her [Email](sarahxu0811@kaist.ac.kr), GITHUB here.
   - **Yukai Xu** </br>
   This is Yukai Xu, and goes by Hobart, affiliated with pronouns he/him/his. The diligience and dedication that Hobart projects towards his work is second to none     and that. </br>
-  He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at         Northeastern University.
+  He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at         Northeastern University. You can find him [Email](xuyukai@cibr.ac.cn), GITHUB here.
    
   - **Vitto Resnick** </br>
   This is Vitto, and goes by he/him/his. His pertinent questions and follow-ups made us think more critically about the project that we embarked on. </br>
