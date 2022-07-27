@@ -4,10 +4,12 @@ title: The Team
 ---
 
   - **Xin Xu** </br>
-    This is Xin Xu, and my pronouns are She/Her. Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and       the workflow churning. </br>
+    This is Xin Xu, and goes by pronouns She/Her. Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and       the workflow churning. </br>
     She is currently enrolled in the Master's Program in Bio and Brain Engineering at KAIST. However, she completed her       Bachelor's Degree in Mechanical       Engineering at BIT. You can find her Email, GITHUB here.
   - Yukai Xu 
-  - Vitto Resnick 
+  - **Vitto Resnick** </br>
+  This is Vitto, and goes by he/him/his. Vitto surely did ask very pertinent questions and follow-ups that made us think more critically about the project that we embarked on. </br>
+  He is a rising third year undergraduate student at UC Berkeley, majoring in Chemical Biology (with a Concentration in Computational Chemistry), Psychology, and Molecular & Cellular Biology (with an emphasis on Neurobiology).
   - Juee Dhar 
   - **Doris Zhang** </br>
     This is Doris (Yuxuan) Zhang, and goes by She/Her. Her warmth and approachability makes for a great team player. </br> 
