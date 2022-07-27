@@ -2,10 +2,8 @@
 title: The Team
 
 ---
-
-  - **Xin Xu** </br>
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4ldid3b1ej20k90k9q3a.jpg"  width=100 style="float: left; margin-right: 20px" >
-
+  - **Xin Xu** </br>
     This is Xin Xu, and goes by pronouns She/Her. Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and       the workflow churning. She is currently enrolled in the Master's Program in Bio and Brain Engineering at KAIST. However, she completed her       Bachelor's Degree in Mechanical Engineering at BIT. You can find her [Email](sarahxu0811@kaist.ac.kr), GITHUB here.
     
 - **Yukai Xu** </br>
@@ -27,7 +25,6 @@ This is Chetan  and my pronouns are he/him. He is currently residing in Delhi, I
 
  - **Juee Dhar** </br>
   And this is me, Juee ! I go by she/her pronouns. I am a rising fourth year (corresponds to the first year of masters) BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign. You can connect with me over [Email](jd19ms102@iiserkol.ac.in), GITHUB.
-
 
 ---
 
