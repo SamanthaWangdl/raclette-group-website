@@ -24,7 +24,7 @@ This is Kai Fu and his pronouns are he/him. He is a 3rd year undergraduate at No
 This is Chetan  and my pronouns are he/him. He is currently residing in Delhi, India. He has completed his bachelors in mechanical engineering and is currently pursuing a masters in Computer Science. You can find her [Email](chetansharaf96@gmail.com), GITHUB         here.
 
  - **Juee Dhar** </br>
-  And, this is me, Juee ! I go by she/her pronouns. I am a rising fourth year (corresponds to the first year of masters) BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign. You can connect with me over [Email](jd19ms102@iiserkol.ac.in), GITHUB.
+  And, this is me Juee ! I go by she/her pronouns. I am a rising fourth year (corresponds to the first year of masters) BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign. You can connect with me over [Email](jd19ms102@iiserkol.ac.in), GITHUB.
 
 
 ---
