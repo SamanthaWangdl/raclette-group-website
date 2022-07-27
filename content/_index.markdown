@@ -44,7 +44,7 @@ Although it is a minimal theme, it is actually fully functional. It supports pag
 
 <!--- in this way you could insert a math function -->
 `$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
----!>
+
 
 
 
