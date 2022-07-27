@@ -19,15 +19,11 @@ Add the mindmap here
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0kKJB_M_bQMyuAQMtbWsVwZMUk0nbnsgRSf3-B3gWh_sPxFId-fI7mWnKUdkwBmQB36UXy_Z4tq92/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-<!-- in this way you could insert a video -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9RRQtNnq3s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Although it is a minimal theme, it is actually fully functional. It supports pages (including the home page), blog posts, a navigation menu, categories, tags, and RSS. With [a little bit customization](https://github.com/yihui/hugo-xmin/blob/master/exampleSite/layouts/partials/foot_custom.html), it can easily support LaTeX math expressions, e.g.,
 
-<!--- in this way you could insert a math function -->
-`$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
-
+<!-- in this way you could insert a video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RRQtNnq3s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
