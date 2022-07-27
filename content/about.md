@@ -2,7 +2,7 @@
 title: The Team
 
 ---
-    <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4ldid3b1ej20k90k9q3a.jpg"  width=100 style="float: left; margin-right: 20px" >
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4ldid3b1ej20k90k9q3a.jpg"  width=100 style="float: left; margin-right: 20px" >
   - **Xin Xu** </br>
     This is Xin Xu, and goes by pronouns She/Her. Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and       the workflow churning. She is currently enrolled in the Master's Program in Bio and Brain Engineering at KAIST. However, she completed her       Bachelor's Degree in Mechanical Engineering at BIT. You can find her [Email](sarahxu0811@kaist.ac.kr), GITHUB here.
     
