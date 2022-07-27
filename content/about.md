@@ -8,6 +8,5 @@ title: The Team
 ### Kai Fu
 ### Chetan Sharaf
 
-author: JD
 ---
 
