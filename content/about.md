@@ -20,7 +20,7 @@ title: The Team
   - **Kai Fu** </br>
 This is Kai Fu and his pronouns are he/him. He is a 3rd year undergraduate at Northwest A&F University, China, majoring in biotechnology. You can find his [Email](fk2622891245@nwafu.edu.cn), GITHUB         here.
 
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4mdnfyo6aj20u014075c.jpg"  width=100 style="float: left; margin-right: 100px" > </br>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4mdnfyo6aj20u014075c.jpg"  width=100 style="float: left; margin-right: 20px" > </br>
  - **Juee Dhar** </br>
   And this is me, Juee ! I go by she/her pronouns. I am a rising fourth year (corresponds to the first year of masters) BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign. You can connect with me over [Email](jd19ms102@iiserkol.ac.in), GITHUB.
 
