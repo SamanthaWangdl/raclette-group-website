@@ -1,4 +1,4 @@
----
+<!-- ---
 title: The Team
 
 ---
@@ -27,3 +27,175 @@ This is Kai Fu and his pronouns are he/him. He is a 3rd year undergraduate at No
 
 ---
 
+ -->
+ 
+ 
+ 
+ ---
+title: Team
+---
+
+## Group Member
+<div style = "margin-left:40px; margin-top:20px">
+
+<div>
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4mdmu0v7kj208e0b9aa8.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Xin Xu
+
+Affliation: KAIST
+
+Github:
+
+</div>
+
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+</div>
+</div>
+
+<div>
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4mdnfyo6aj20u014075c.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Xin Xu
+
+Affliation: KAIST
+
+Github:
+
+</div>
+
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+</div>
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu7r6godj20c80g83z4.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Xin Xu
+
+Affliation: KAIST
+
+Github:
+
+</div>
+
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+</div>
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu8kby38j212c0u0go7.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Xin Xu
+
+Affliation: KAIST
+
+Github:
+
+</div>
+
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+</div>
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Xin Xu
+
+Affliation: KAIST
+
+Github:
+
+</div>
+
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+</div>
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Hobart
+
+Affliation: KAIST
+
+Github:
+
+</div>
+
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+</div>
+
+
+</div>
+
+
+## TA & Mentor
+
+<div style = "margin-top:20px">
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Hobart
+
+Affliation: KAIST
+
+Github:
+
+
+</div>
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Hobart
+
+Affliation: KAIST
+
+Github:
+
+
+</div>
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Hobart
+
+Affliation: KAIST
+
+Github:
+
+
+</div>
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+</div>
+ 
+ 
+ 
